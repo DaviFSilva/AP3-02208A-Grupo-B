@@ -2,17 +2,15 @@
 
 Avaliação 3 - Sistemas Digitais - UFSC
 
-Nosso projeto é sobre uma ULA em VHDL 2008 com as seguintes operações:
+Trabalho produzido por:
+- Marcos Emanuel Santos da Silva (21104149);
+- Bruno Henrique da Silva Matos (24204065);
+- Elehilton de Carvalho Izel (25204063);
+- Davi Feitosa Silva Santana (26100650);
+- Maria Luíza Mees (26100658);
+- Carlos Henrique Quadros Schmidt (26102341);
+- Antonio Erisvaldo Fereira da Silva Junior (26104265);
+- Kaua Rodrigues Matos da Silva (26105657).
 
-ULA:
-- Adição
-- Subtração
-- Incremento (+1)
-- Decremento (-1)
-- Left Shift
-- Right Shift
-- Logic (AND, OR, XOR, NOT)
-- Multiplicação
-- Divisão
-- Raiz Quadrada
-- Exponenciação
+### Descrição do Projeto
+Nosso projeto trata-se de um módulo de convolução
